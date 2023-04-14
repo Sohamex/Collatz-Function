@@ -12,3 +12,5 @@ def Clz(x):
     result = ((3*x)/(1 + 5*(Cxp))) + Cxm
 
     return result
+
+x = float(input('Enter the number: '))
