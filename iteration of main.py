@@ -1,5 +1,3 @@
-import math
-import cmath
 from main_function import Clz
 
 while True:
